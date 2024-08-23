@@ -1,0 +1,18 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Expense Tracker backend project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "expense-tracker"
+  ],
+  "author": "Manish Tamang",
+  "license": "ISC",
+  "devDependencies": {
+    "commander": "^12.1.0"
+  }
+}
