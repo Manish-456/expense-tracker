@@ -74,6 +74,6 @@ node index.js update --id <id> [--description "<description>"] [--category "<cat
 ### Exporting Data to CSV
 
 ```bash
-node index.js export-csv
+node index.js export-to-csv
 ```
 
